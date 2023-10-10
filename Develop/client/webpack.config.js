@@ -41,7 +41,7 @@ module.exports = () => {
 
       // Inject service worker into HTML
       new InjectManifest({
-        swSrc: './src/js/service-worker.js', // Path to your service worker script
+        swSrc: './src-sw.js', // Path to your service worker script
         swDest: 'service-worker.js',
       }),
     ],
