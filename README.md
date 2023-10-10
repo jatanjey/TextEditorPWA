@@ -15,4 +15,5 @@ A progressive web application text editor that allows you to create and edit not
 
 - node.js,webpack,babel,indexedDB, service workers, workbox,express.js
 
+credit:https://vite-pwa-org.netlify.app/guide/service-worker-strategies-and-behaviors.html
 
